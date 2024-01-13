@@ -1,6 +1,9 @@
-<h1 align="center">🔶 Senior Full-Stack Developer - React, Laravel, Blockchain [Solidity] 🔶</h1>
+<h1 align="center">🔶 Full-Stack Developer 🔶</h1>
 <div align="center">
- ![](https://komarev.com/ghpvc/?username=your-github-username&color=gray)
+ <img src="https://komarev.com/ghpvc/?username=shahkochaki&style=flat-square&color=green" />
+  <a href="https://shahkochaki.ir">
+    <img src="https://img.shields.io/badge/shahkochaki-orange?logo=website&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/shahkochaki">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
@@ -24,10 +27,10 @@
   </a>
 </div>
 </br>
-<p align="center"> Seasoned developer with a 12-year mastery of Laravel, 2 years of finesse in Reactjs, and a year's expertise in Solidity. Architecting networks for a decade, sculpting database landscapes for 8 years, and weaving WordPress magic as a template and plugin creator for 8 years. Dedicated to crafting elegant and scalable solutions. </p>
+<p align="right"> Seasoned developer with a 12-year mastery of Laravel, 2 years of finesse in Reactjs, and a year's expertise in Solidity. Architecting networks for a decade, sculpting database landscapes for 8 years, and weaving WordPress magic as a template and plugin creator for 8 years. Dedicated to crafting elegant and scalable solutions. </p>
 
 
-<h1 align="center">🔥 my skills : </h1>
+<h1 align="right">my skills : </h1>
 <div align="center">
   
   ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
