@@ -27,7 +27,7 @@
   </a>
 </div>
 </br>
-<p align="left"> Seasoned developer with a 12-year mastery of Laravel, 2 years of finesse in Reactjs, and a year's expertise in Solidity. Architecting networks for a decade, sculpting database landscapes for 8 years, and weaving WordPress magic as a template and plugin creator for 8 years. Dedicated to crafting elegant and scalable solutions. </p>
+<p align="left"> Seasoned developer with a 14-year mastery of Laravel, 2 years of finesse in Reactjs, and a year's expertise in Solidity. Architecting networks for a decade, sculpting database landscapes for 8 years, and weaving WordPress magic as a template and plugin creator for 8 years. Dedicated to crafting elegant and scalable solutions. </p>
 <h1></h1>
 <div align="center">
   <br/>
