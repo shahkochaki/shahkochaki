@@ -252,7 +252,7 @@ const aliShahkochaki = {
 
 <div align="center">
   
-[![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)](https://github.com/shahkochaki)
+![Snake Animation](https://raw.githubusercontent.com/shahkochaki/shahkochaki/output/github-snake.svg)
 
 <details>
 <summary>📊 <b>Detailed GitHub Statistics</b></summary>

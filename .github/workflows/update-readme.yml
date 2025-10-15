@@ -6,14 +6,14 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,7 +25,7 @@ jobs:
           max_post_count: 5
           readme_path: "./README.md"
           comment_tag_name: "BLOG"
-          
+
       - name: Update GitHub Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
@@ -38,11 +38,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -51,7 +51,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
