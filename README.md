@@ -251,8 +251,6 @@ const aliShahkochaki = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-![Snake Animation](https://raw.githubusercontent.com/shahkochaki/shahkochaki/output/github-snake.svg)
 
 <details>
 <summary>📊 <b>Detailed GitHub Statistics</b></summary>
@@ -302,15 +300,6 @@ const personalInterests = {
 ## 💼 Professional Services
 
 <div align="center">
-
-| 🔧 **Service**                     | 💰 **Starting From** | ⏱️ **Delivery** |
-| ---------------------------------- | -------------------- | --------------- |
-| **Laravel Development**            | $50/hour             | 1-4 weeks       |
-| **React.js Applications**          | $45/hour             | 2-6 weeks       |
-| **Smart Contract Development**     | $80/hour             | 1-3 weeks       |
-| **Database Design & Optimization** | $60/hour             | 1-2 weeks       |
-| **WordPress Custom Solutions**     | $40/hour             | 1-3 weeks       |
-| **Technical Consultation**         | $100/hour            | Immediate       |
 
 _💡 Interested in working together? Let's discuss your project!_
 
