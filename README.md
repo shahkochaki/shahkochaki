@@ -159,9 +159,24 @@ const aliShahkochaki = {
 ## 🔥 Featured Projects
 
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=laravel-advanced-ecommerce&theme=tokyonight&hide_border=true)](https://github.com/shahkochaki/laravel-advanced-ecommerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=react-crypto-dashboard&theme=tokyonight&hide_border=true)](https://github.com/shahkochaki/react-crypto-dashboard)
+
+### 🏪 E-Commerce Platform
+[![Laravel E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=laravel-ecommerce&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/laravel-ecommerce)
+
+**Tech Stack:** Laravel, React.js, MySQL, Redis, Docker  
+**Features:** Multi-vendor marketplace, Payment gateway integration, Real-time notifications
+
+### 🏦 Banking System
+[![Banking API](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=secure-banking-api&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/secure-banking-api)
+
+**Tech Stack:** Laravel, PostgreSQL, JWT, OAuth2.0  
+**Features:** Secure transactions, Account management, Audit logging
+
+### 🎮 Blockchain Game
+[![Web3 Game](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=web3-gaming-platform&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/web3-gaming-platform)
+
+**Tech Stack:** Solidity, React.js, Web3.js, IPFS  
+**Features:** NFT marketplace, Smart contract gaming, Token rewards
 
 </div>
 
@@ -171,6 +186,53 @@ const aliShahkochaki = {
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+## 📝 Latest Blog Posts
+
+<!--START_SECTION:BLOG-->
+<!--END_SECTION:BLOG-->
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+| 🏆 **Achievement** | 📅 **Year** | 🏢 **Organization** |
+|-------------------|------------|---------------------|
+| AWS Certified Solutions Architect | 2024 | Amazon Web Services |
+| Laravel Certified Developer | 2023 | Laravel |
+| Blockchain Developer Certification | 2024 | Ethereum Foundation |
+| MySQL Database Administrator | 2022 | Oracle |
+
+</div>
+
+---
+
+## 📱 Mobile App Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+
+</div>
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean" />
+
+</div>
 
 ---
 
@@ -186,7 +248,45 @@ const aliShahkochaki = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shahkochaki/shahkochaki/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shahkochaki/shahkochaki/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🌟 Fun Facts & Interests
+
+<div align="center">
+
+```javascript
+const personalInterests = {
+  🎯 hobbies: ["Coding", "Chess", "Reading Tech Blogs", "Photography"],
+  🌍 languages: ["Persian (Native)", "English (Fluent)", "Arabic (Basic)"],
+  🎵 music: ["Classical", "Electronic", "Jazz"],
+  ☕ favoriteTools: ["VS Code", "PhpStorm", "Postman", "Git"],
+  🎮 gaming: ["Strategy Games", "Blockchain Games", "Puzzle Games"],
+  📚 currentlyReading: "Clean Architecture by Robert C. Martin"
+};
+```
+
+</div>
+
+---
+
+## 💼 Professional Services
+
+<div align="center">
+
+| 🔧 **Service** | 💰 **Starting From** | ⏱️ **Delivery** |
+|---------------|---------------------|------------------|
+| **Laravel Development** | $50/hour | 1-4 weeks |
+| **React.js Applications** | $45/hour | 2-6 weeks |
+| **Smart Contract Development** | $80/hour | 1-3 weeks |
+| **Database Design & Optimization** | $60/hour | 1-2 weeks |
+| **WordPress Custom Solutions** | $40/hour | 1-3 weeks |
+| **Technical Consultation** | $100/hour | Immediate |
+
+*💡 Interested in working together? Let's discuss your project!*
+
 </div>
 
 ---
