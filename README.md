@@ -130,10 +130,6 @@ const aliShahkochaki = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahkochaki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahkochaki&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
