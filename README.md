@@ -161,18 +161,21 @@ const aliShahkochaki = {
 <div align="center">
 
 ### 🏪 E-Commerce Platform
+
 [![Laravel E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=laravel-ecommerce&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/laravel-ecommerce)
 
 **Tech Stack:** Laravel, React.js, MySQL, Redis, Docker  
 **Features:** Multi-vendor marketplace, Payment gateway integration, Real-time notifications
 
 ### 🏦 Banking System
+
 [![Banking API](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=secure-banking-api&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/secure-banking-api)
 
 **Tech Stack:** Laravel, PostgreSQL, JWT, OAuth2.0  
 **Features:** Secure transactions, Account management, Audit logging
 
 ### 🎮 Blockchain Game
+
 [![Web3 Game](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=web3-gaming-platform&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/web3-gaming-platform)
 
 **Tech Stack:** Solidity, React.js, Web3.js, IPFS  
@@ -200,12 +203,12 @@ const aliShahkochaki = {
 
 <div align="center">
 
-| 🏆 **Achievement** | 📅 **Year** | 🏢 **Organization** |
-|-------------------|------------|---------------------|
-| AWS Certified Solutions Architect | 2024 | Amazon Web Services |
-| Laravel Certified Developer | 2023 | Laravel |
-| Blockchain Developer Certification | 2024 | Ethereum Foundation |
-| MySQL Database Administrator | 2022 | Oracle |
+| 🏆 **Achievement**                 | 📅 **Year** | 🏢 **Organization** |
+| ---------------------------------- | ----------- | ------------------- |
+| AWS Certified Solutions Architect  | 2024        | Amazon Web Services |
+| Laravel Certified Developer        | 2023        | Laravel             |
+| Blockchain Developer Certification | 2024        | Ethereum Foundation |
+| MySQL Database Administrator       | 2022        | Oracle              |
 
 </div>
 
@@ -248,7 +251,31 @@ const aliShahkochaki = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shahkochaki/shahkochaki/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+[![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)](https://github.com/shahkochaki)
+
+<details>
+<summary>📊 <b>Detailed GitHub Statistics</b></summary>
+<br/>
+
+![GitHub Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahkochaki&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&area_color=58a6ff)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahkochaki&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahkochaki&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahkochaki&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahkochaki&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahkochaki&theme=tokyonight&utcOffset=3.5" alt="Productive Time"/>
+</div>
+
+</details>
+
 </div>
 
 ---
@@ -276,16 +303,16 @@ const personalInterests = {
 
 <div align="center">
 
-| 🔧 **Service** | 💰 **Starting From** | ⏱️ **Delivery** |
-|---------------|---------------------|------------------|
-| **Laravel Development** | $50/hour | 1-4 weeks |
-| **React.js Applications** | $45/hour | 2-6 weeks |
-| **Smart Contract Development** | $80/hour | 1-3 weeks |
-| **Database Design & Optimization** | $60/hour | 1-2 weeks |
-| **WordPress Custom Solutions** | $40/hour | 1-3 weeks |
-| **Technical Consultation** | $100/hour | Immediate |
+| 🔧 **Service**                     | 💰 **Starting From** | ⏱️ **Delivery** |
+| ---------------------------------- | -------------------- | --------------- |
+| **Laravel Development**            | $50/hour             | 1-4 weeks       |
+| **React.js Applications**          | $45/hour             | 2-6 weeks       |
+| **Smart Contract Development**     | $80/hour             | 1-3 weeks       |
+| **Database Design & Optimization** | $60/hour             | 1-2 weeks       |
+| **WordPress Custom Solutions**     | $40/hour             | 1-3 weeks       |
+| **Technical Consultation**         | $100/hour            | Immediate       |
 
-*💡 Interested in working together? Let's discuss your project!*
+_💡 Interested in working together? Let's discuss your project!_
 
 </div>
 

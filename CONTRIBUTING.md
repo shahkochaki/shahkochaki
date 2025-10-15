@@ -5,16 +5,19 @@ Thank you for your interest in contributing! I welcome contributions from the co
 ## How to Contribute
 
 ### 🐛 Reporting Bugs
+
 - Use the GitHub issue tracker
 - Provide detailed steps to reproduce
 - Include system information
 
 ### 💡 Suggesting Features
+
 - Open an issue with the "enhancement" label
 - Describe the feature in detail
 - Explain the use case
 
 ### 🔧 Code Contributions
+
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
@@ -24,18 +27,21 @@ Thank you for your interest in contributing! I welcome contributions from the co
 ## Code Standards
 
 ### PHP/Laravel
+
 - Follow PSR-12 coding standards
 - Use meaningful variable names
 - Add PHPDoc comments
 - Write unit tests
 
 ### JavaScript/React
+
 - Use ES6+ features
 - Follow Airbnb style guide
 - Add JSDoc comments
 - Write component tests
 
 ### Commit Messages
+
 - Use conventional commits format
 - Be descriptive but concise
 - Reference issues when applicable
@@ -48,4 +54,4 @@ Thank you for your interest in contributing! I welcome contributions from the co
 
 ---
 
-*Happy coding! 🚀*
+_Happy coding! 🚀_
