@@ -152,35 +152,6 @@ const aliShahkochaki = {
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-### 🏪 E-Commerce Platform
-
-[![Laravel E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=laravel-ecommerce&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/laravel-ecommerce)
-
-**Tech Stack:** Laravel, React.js, MySQL, Redis, Docker  
-**Features:** Multi-vendor marketplace, Payment gateway integration, Real-time notifications
-
-### 🏦 Banking System
-
-[![Banking API](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=secure-banking-api&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/secure-banking-api)
-
-**Tech Stack:** Laravel, PostgreSQL, JWT, OAuth2.0  
-**Features:** Secure transactions, Account management, Audit logging
-
-### 🎮 Blockchain Game
-
-[![Web3 Game](https://github-readme-stats.vercel.app/api/pin/?username=shahkochaki&repo=web3-gaming-platform&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/shahkochaki/web3-gaming-platform)
-
-**Tech Stack:** Solidity, React.js, Web3.js, IPFS  
-**Features:** NFT marketplace, Smart contract gaming, Token rewards
-
-</div>
-
----
-
 ## 💡 Recent Activity
 
 <!--START_SECTION:activity-->
